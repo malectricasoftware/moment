@@ -14,4 +14,4 @@ Single packet mode which sends requests in an http/2 single packet attack to red
 
 
 ## TODO
-Implement response timing and analysis for single packet attacks to take full advantage of reduce network jitter
+Implement response timing and analysis for single packet attacks to take full advantage of reduced network jitter
